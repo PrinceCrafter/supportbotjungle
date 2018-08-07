@@ -11,4 +11,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('token'); // هنا ضع التوكن المتواجد بالشرح الذي انشئته
+client.login('BOT_TOKEN'); // هنا ضع التوكن المتواجد بالشرح الذي انشئته
